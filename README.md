@@ -1,10 +1,16 @@
-<h1> Desafio de Projecto - Design Patterns e Clean Arquitecture com Java</h1>
-<p> Este repositório é fruto de um desafio de código proporcionado pela <strong>DIO </strong>, no âmbito da imersão ao Spring Framework, usando padrões de projecto em java como:</p>
+<h1> Conversando com os Campeões do League Of Legends LoL</h1>
 
+## Tecnologias Usadas no projecto
 <ul>
-<li> Singleoton - @Bean e @AutoWired</li>
-<li> Strategy - @Repository </li>
-<li> Facade - simulando uma API </li>
+<li> Java </li>
+<li> JavaScript </li>
+<li> HTML5 </li>
+<li> Bootstrap Framework </li>
+<li> Spring Framework </li>
+<li> Spring Boot </li>
+<li> Banco de Dados em Memória (H2) </li>
+<li> JDBC template </li>
+<li> Swagger </li>
 </ul> 
 
 
